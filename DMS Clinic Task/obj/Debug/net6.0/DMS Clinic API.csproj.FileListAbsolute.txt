@@ -1,0 +1,77 @@
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\appsettings.Development.json
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\appsettings.json
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\DMS Clinic API.exe
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\DMS Clinic API.deps.json
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\DMS Clinic API.runtimeconfig.json
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\DMS Clinic API.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\DMS Clinic API.pdb
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Autofac.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\AutoMapper.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Humanizer.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Data.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Repository.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Services.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Data.pdb
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Services.pdb
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Repository.pdb
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\DMS Clinic API.csproj.AssemblyReference.cache
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\DMS Clinic API.GeneratedMSBuildEditorConfig.editorconfig
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\DMS Clinic API.AssemblyInfoInputs.cache
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\DMS Clinic API.AssemblyInfo.cs
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\DMS Clinic API.csproj.CoreCompileInputs.cache
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\DMS Clinic API.MvcApplicationPartsAssemblyInfo.cs
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\DMS Clinic API.MvcApplicationPartsAssemblyInfo.cache
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\staticwebassets.build.json
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\staticwebassets.development.json
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\scopedcss\bundle\DMS Clinic API.styles.css
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\DMS Clinic API.csproj.CopyComplete
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\DMS Clinic API.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\refint\DMS Clinic API.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\DMS Clinic API.pdb
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\DMS Clinic API.genruntimeconfig.cache
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\obj\Debug\net6.0\ref\DMS Clinic API.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Core.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\DTO.dll
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\Core.pdb
+E:\DMS Task\DMS Clinic Task\DMS Clinic Task\bin\Debug\net6.0\DTO.pdb

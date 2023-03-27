@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rvlwg7u0c9z7FZTBxH5aPcXltf2m8u/IUYLc/4Du8GXfMY4zoJSK/KJSwZ7kECs1hdTZ2St5ZSznjqZf9Z145Q==",
+  "success": true,
+  "projectFilePath": "E:\\DMS Task\\DMS Clinic Task\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BahyTalaat\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
